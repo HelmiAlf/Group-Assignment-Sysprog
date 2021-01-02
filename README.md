@@ -6,4 +6,4 @@ Kyosena Haridza (1806186894)
 
 
 how to use:
-bash ethernet_script speed [10/100/1000] duplex [half/full]
+```bash ethernet_script speed [10/100/1000] duplex [half/full]```
